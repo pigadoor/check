@@ -74,7 +74,7 @@ chmod u-r baltoy3/exploud
 
 cp turtwig0 baltoy3/exploud
 
-ln -s /home/s333420/lab0/turtwig0 magmar3/crobatturtwig  # как сделать тут ссылку?
+ln -s /home/s333420/lab0/turtwig0 magmar3/crobatturtwig
 
 chmod u+w baltoy3
 ln turtwig0 baltoy3/mudkipturtwig
